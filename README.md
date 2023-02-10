@@ -20,7 +20,7 @@ fields_of_interests:
     "data visualization",
     "DevOps"
   ]
-currently_learning: ["Docker, D3.js"]
+currently_learning: ["Docker", "D3.js"]
 hobbies: ["Coffee", "Baking", "Hiking"]
 ```
 
