@@ -58,12 +58,3 @@ hobbies: ["Coffee", "Baking", "Hiking"]
 ![tableau](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/tableau-dark-mode.png#gh-dark-mode-only)
 
 
-<h3> last year on github</h3>
-
-<p align="left">
-  <img src="https://github.com/vktrsmnv/vktrsmnv/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=100&section=footer&&fontColor=fff&animation=fadeIn&fontSize=40&descSize=25&&fontAlignY=30&descAlignY=50"/>
-</p>
