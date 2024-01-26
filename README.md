@@ -5,7 +5,7 @@
 ```yaml
 name: Viktoriia Semenova
 located_in: Mannheim, Germany
-current_job: instructor & researcher @ Uni Mannheim
+current_job: lecturer & researcher @ Uni Mannheim
 education:
   [
     "PhD in Political Science: ongoing",
@@ -17,8 +17,7 @@ fields_of_interests:
     "data science",
     "machine learning",
     "natural language processing",
-    "data visualization",
-    "DevOps"
+    "data visualization"
   ]
 currently_learning: ["Docker", "D3.js"]
 hobbies: ["Coffee", "Baking", "Hiking"]
@@ -40,14 +39,8 @@ hobbies: ["Coffee", "Baking", "Hiking"]
 ![rstudio](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/rstudio-dark-mode.png#gh-dark-mode-only)
 ![pycharm](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/pycharm-light-mode.png#gh-light-mode-only)
 ![pycharm](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/pycharm-dark-mode.png#gh-dark-mode-only)
-![spyderide](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/spyderide-light-mode.png#gh-light-mode-only)
-![spyderide](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/spyderide-dark-mode.png#gh-dark-mode-only)
-![javascript](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/javascript-light-mode.png#gh-light-mode-only)
-![javascript](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/javascript-dark-mode.png#gh-dark-mode-only)
 ![html5](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/html5-light-mode.png#gh-light-mode-only)
 ![html5](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/html5-dark-mode.png#gh-dark-mode-only)
-![bootstrap](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/bootstrap-light-mode.png#gh-light-mode-only)
-![bootstrap](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/bootstrap-dark-mode.png#gh-dark-mode-only)
 ![css3](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/css3-light-mode.png#gh-light-mode-only)
 ![css3](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/css3-dark-mode.png#gh-dark-mode-only)
 ![nodedotjs](https://github.com/vktrsmnv/vktrsmnv/raw/main/icons/nodedotjs-light-mode.png#gh-light-mode-only)
