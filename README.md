@@ -8,7 +8,6 @@ located_in: Mannheim, Germany
 current_job: lecturer & researcher @ Uni Mannheim
 education:
   [
-    "PhD in Political Science: ongoing",
     "MA in Political Science: completed",
     "BA in Liberal Arts: completed",
   ]
