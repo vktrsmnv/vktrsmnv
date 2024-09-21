@@ -4,8 +4,9 @@
 
 ```yaml
 name: Viktoriia Semenova
-located_in: Mannheim, Germany
-current_job: lecturer & researcher @ Uni Mannheim
+located_in: Düsseldorf, Germany
+current_job: data scientist @ trivago
+previous_job: lecturer & researcher @ Uni Mannheim
 education:
   [
     "MA in Political Science: completed",
