@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&text=hello!&height=200&section=header&&fontColor=2c4c7d&desc=welcome%20to%20my%20GitHub%20page&animation=fadeIn&fontSize=40&descSize=25&&fontAlignY=30&descAlignY=50&width=1200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&text=Hello!&height=150&section=header&&fontColor=2c4c7d&animation=fadeIn&fontSize=40&descSize=25&&fontAlignY=30&descAlignY=50&width=1200"/>
 </p>
 
 ```yaml
@@ -16,11 +16,9 @@ fields_of_interests:
   [
     "data science",
     "machine learning",
-    "natural language processing",
+    "causal inference",
     "data visualization"
   ]
-currently_learning: ["Docker", "D3.js"]
-hobbies: ["Coffee", "Baking", "Hiking"]
 ```
 
 <h3> tools I have used and learned</h3>
